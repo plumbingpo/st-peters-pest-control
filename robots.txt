@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://saintpeterspestcontrol.com/sitemap.xml
